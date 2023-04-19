@@ -16,4 +16,4 @@ Credit to mandaark17
 ## License
 No license
 
-<img src= "C:\Users\manda\bootcamp\module1challenge\module1challenge\assets\images\Screenshot 2023-04-19 183311.png" />
+<img src="./assets/images/Screenshot 2023-04-19 183311.png" />
