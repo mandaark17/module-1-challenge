@@ -1,19 +1,19 @@
 # <Module-1-Challenge>
 
 ## Description
-- My motivation for building this was to see how m uch i could play with this project for class.
-- I wanted to make some crazy changes, but I stood with simplicity and just simplified some fonts
-- This website now works proper and is a steady ex of usage of html and css
-- I learned that each px difference wont work properly when rescaling browser without "flex-wrap" type code
+- My motivation for building this was to see how much I could play with this project for class.
+- I wanted to make some crazy changes, but I stood with simplicity and just simplified some fonts and classes
+- This website now works properly and is a steady example of usage of html and css.
+- I learned that each px difference wont work properly when rescaling browser without "flex-wrap" type code.
 
 
 ## Usage
-User can use links at the top of the page to scroll to sections
+User can use links at the top of the page to scroll to sections now after defactoring.
 
 ## Credits
-Credit to mandaark17
+Credit to Aleque
 
 ## License
-No license
+MIT license
 
 <img src="./assets/images/Screenshot 2023-04-19 183311.png" />
