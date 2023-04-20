@@ -35,13 +35,13 @@ h1 {
     font-size: 48px;
     color: #ffffff;}
 
-.header div {
+.links {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-size: 20px;}
 
-.header div ul li {
+.links ul li {
     display: inline-block;
     margin-left: 25px;}
 
