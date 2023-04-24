@@ -1,6 +1,8 @@
 # <Module-1-Challenge>
 
-## Description
+<a href="https://mandaark17.github.io/module1challenge/">Horiseo Website!</a>
+
+## Horiseo Challenge #1
 - My motivation for building this was to see how much I could play with this project for class.
 - I wanted to make some crazy changes, but I stood with simplicity and just simplified some fonts and classes
 - This website now works properly and is a steady example of usage of html and css.
@@ -18,4 +20,4 @@ MIT license
 
 <img src="./assets/images/Screenshot 2023-04-19 183311.png" />
 
-<a href="https://mandaark17.github.io/module1challenge/">Horiseo Website!</a>
+
