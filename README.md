@@ -19,5 +19,3 @@ Credit to Aleque
 MIT license
 
 <img src="./assets/images/Screenshot 2023-04-19 183311.png" />
-
-
