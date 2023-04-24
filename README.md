@@ -1,6 +1,6 @@
 # <Module-1-Challenge>
 
-<a href="https://mandaark17.github.io/module1challenge/">Horiseo Website!</a>
+<a href="https://mandaark17.github.io/module-1-challenge/">Horiseo Website!</a>
 
 ## Horiseo Challenge #1
 - My motivation for building this was to see how much I could play with this project for class.
